@@ -1,16 +1,5 @@
-# assignment_application
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Newsfeed App: Building a Login and Signup Flow with Third-Party Authentication and Offline Functionality
+Creating a News Aggregator with Login and Signup Pages, API Integration, and Local Storage
+Implementing a News API and Secure User Authentication in a Web Application
+Developing a News Reader with Google/Facebook Sign-In, Search and Filtering Capabilities, and Offline Access
+Building a Modern News App with Responsive Design, Card View Layout, and Local Storage Support
